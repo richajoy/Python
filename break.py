@@ -25,7 +25,7 @@ tries = 0
 
 while tries < 3:
     password = input("Enter password: ")
-    if password == "Jesusl0vea!!":
+    if password == "sdlkfsksdf":
         break
     else:
         tries = tries + 1
