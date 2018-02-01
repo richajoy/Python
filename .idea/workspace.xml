@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aad338cf-26f0-4931-8e84-24a769996ba3" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/list_new.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/wax_poetic.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,6 +23,7 @@
     <SUITE FILE_PATH="coverage/RealPython$dictionary.coverage" NAME="dictionary Coverage Results" MODIFIED="1517204370079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/RealPython$calc.coverage" NAME="calc Coverage Results" MODIFIED="1516598547803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/RealPython$events_calc_probabilities.coverage" NAME="events_calc_probabilities Coverage Results" MODIFIED="1516874943124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RealPython$wax_poetic.coverage" NAME="wax_poetic Coverage Results" MODIFIED="1517527558474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/RealPython$factors.coverage" NAME="factors Coverage Results" MODIFIED="1516770304180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/RealPython$break.coverage" NAME="break Coverage Results" MODIFIED="1516798170346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/RealPython$square_number.coverage" NAME="square_number Coverage Results" MODIFIED="1516599923740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -47,16 +48,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="if_condition.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/if_condition.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="factors.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/factors.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -107,11 +98,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="list_new.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="list_new.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/list_new.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1230">
               <caret line="82" column="9" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="82" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wax_poetic.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wax_poetic.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="11">
+              <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -181,6 +182,7 @@
         <option value="$PROJECT_DIR$/cointoss.py" />
         <option value="$PROJECT_DIR$/list.py" />
         <option value="$PROJECT_DIR$/list_new.py" />
+        <option value="$PROJECT_DIR$/wax_poetic.py" />
       </list>
     </option>
   </component>
@@ -241,7 +243,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.list_new">
+  <component name="RunManager" selected="Python.wax_poetic">
     <configuration name="HelloWorld" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -603,26 +605,46 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <list size="19">
+    <configuration name="wax_poetic" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="RealPython" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wax_poetic.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list size="20">
       <item index="0" class="java.lang.String" itemvalue="Python.cointoss" />
       <item index="1" class="java.lang.String" itemvalue="Python.dictionary" />
       <item index="2" class="java.lang.String" itemvalue="Python.events_calc_probabilities" />
       <item index="3" class="java.lang.String" itemvalue="Python.list" />
       <item index="4" class="java.lang.String" itemvalue="Python.list_new" />
       <item index="5" class="java.lang.String" itemvalue="Python.try_except" />
-      <item index="6" class="java.lang.String" itemvalue="Python.leetspeak" />
-      <item index="7" class="java.lang.String" itemvalue="Python.calc" />
-      <item index="8" class="java.lang.String" itemvalue="Python.square_number" />
-      <item index="9" class="java.lang.String" itemvalue="Python.temperature" />
-      <item index="10" class="java.lang.String" itemvalue="Python.loop" />
-      <item index="11" class="java.lang.String" itemvalue="Python.for_loop" />
-      <item index="12" class="java.lang.String" itemvalue="Python.investment" />
-      <item index="13" class="java.lang.String" itemvalue="Python.if_condition" />
-      <item index="14" class="java.lang.String" itemvalue="Python.factors" />
-      <item index="15" class="java.lang.String" itemvalue="Python.break" />
-      <item index="16" class="java.lang.String" itemvalue="Python.HelloWorld" />
-      <item index="17" class="java.lang.String" itemvalue="Python.debugger" />
-      <item index="18" class="java.lang.String" itemvalue="Python.if_condition_input" />
+      <item index="6" class="java.lang.String" itemvalue="Python.wax_poetic" />
+      <item index="7" class="java.lang.String" itemvalue="Python.leetspeak" />
+      <item index="8" class="java.lang.String" itemvalue="Python.calc" />
+      <item index="9" class="java.lang.String" itemvalue="Python.square_number" />
+      <item index="10" class="java.lang.String" itemvalue="Python.temperature" />
+      <item index="11" class="java.lang.String" itemvalue="Python.loop" />
+      <item index="12" class="java.lang.String" itemvalue="Python.for_loop" />
+      <item index="13" class="java.lang.String" itemvalue="Python.investment" />
+      <item index="14" class="java.lang.String" itemvalue="Python.if_condition" />
+      <item index="15" class="java.lang.String" itemvalue="Python.factors" />
+      <item index="16" class="java.lang.String" itemvalue="Python.break" />
+      <item index="17" class="java.lang.String" itemvalue="Python.HelloWorld" />
+      <item index="18" class="java.lang.String" itemvalue="Python.debugger" />
+      <item index="19" class="java.lang.String" itemvalue="Python.if_condition_input" />
     </list>
     <recent_temporary>
       <list size="3">
@@ -837,7 +859,7 @@
           <properties />
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="85" />
+      <option name="time" value="153" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1066,6 +1088,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1230">
           <caret line="82" column="9" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="82" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wax_poetic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11">
+          <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
           <folding />
         </state>
       </provider>
