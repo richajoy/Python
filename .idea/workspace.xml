@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aad338cf-26f0-4931-8e84-24a769996ba3" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/list.py" afterPath="$PROJECT_DIR$/list.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/list_new.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,7 +14,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/RealPython$temperature.coverage" NAME="temperature Coverage Results" MODIFIED="1516603910604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/RealPython$list.coverage" NAME="list Coverage Results" MODIFIED="1517295884854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RealPython$list.coverage" NAME="list Coverage Results" MODIFIED="1517348971651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/RealPython$cointoss.coverage" NAME="cointoss Coverage Results" MODIFIED="1517276964088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/RealPython$try_except.coverage" NAME="try_except Coverage Results" MODIFIED="1516854031461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/RealPython$debugger.coverage" NAME="debugger Coverage Results" MODIFIED="1516720838016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -27,6 +28,7 @@
     <SUITE FILE_PATH="coverage/RealPython$square_number.coverage" NAME="square_number Coverage Results" MODIFIED="1516599923740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/RealPython$HelloWorld.coverage" NAME="HelloWorld Coverage Results" MODIFIED="1516596522411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/RealPython$if_condition.coverage" NAME="if_condition Coverage Results" MODIFIED="1516760286205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RealPython$list_new.coverage" NAME="list_new Coverage Results" MODIFIED="1517449197670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/RealPython$if_condition_input.coverage" NAME="if_condition_input Coverage Results" MODIFIED="1516761582298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/RealPython$loop.coverage" NAME="loop Coverage Results" MODIFIED="1516605569834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/RealPython$leetspeak.coverage" NAME="leetspeak Coverage Results" MODIFIED="1516597087161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -45,16 +47,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="debugger.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/debugger.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="if_condition.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/if_condition.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -105,11 +97,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="list.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="list.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/list.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
+            <state relative-caret-position="127">
               <caret line="21" column="27" lean-forward="true" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="list_new.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/list_new.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1230">
+              <caret line="82" column="9" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="82" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -118,8 +120,8 @@
       <file leaf-file-name="codecs.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/codecs.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-836">
-              <caret line="328" column="0" lean-forward="true" selection-start-line="328" selection-start-column="0" selection-end-line="328" selection-end-column="0" />
+            <state relative-caret-position="258">
+              <caret line="308" column="0" lean-forward="false" selection-start-line="308" selection-start-column="0" selection-end-line="308" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -178,6 +180,7 @@
         <option value="$PROJECT_DIR$/dictionary.py" />
         <option value="$PROJECT_DIR$/cointoss.py" />
         <option value="$PROJECT_DIR$/list.py" />
+        <option value="$PROJECT_DIR$/list_new.py" />
       </list>
     </option>
   </component>
@@ -238,7 +241,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.list">
+  <component name="RunManager" selected="Python.list_new">
     <configuration name="HelloWorld" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -505,6 +508,25 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="list_new" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="RealPython" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/list_new.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="loop" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -581,25 +603,26 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <list size="18">
+    <list size="19">
       <item index="0" class="java.lang.String" itemvalue="Python.cointoss" />
       <item index="1" class="java.lang.String" itemvalue="Python.dictionary" />
       <item index="2" class="java.lang.String" itemvalue="Python.events_calc_probabilities" />
       <item index="3" class="java.lang.String" itemvalue="Python.list" />
-      <item index="4" class="java.lang.String" itemvalue="Python.try_except" />
-      <item index="5" class="java.lang.String" itemvalue="Python.leetspeak" />
-      <item index="6" class="java.lang.String" itemvalue="Python.calc" />
-      <item index="7" class="java.lang.String" itemvalue="Python.square_number" />
-      <item index="8" class="java.lang.String" itemvalue="Python.temperature" />
-      <item index="9" class="java.lang.String" itemvalue="Python.loop" />
-      <item index="10" class="java.lang.String" itemvalue="Python.for_loop" />
-      <item index="11" class="java.lang.String" itemvalue="Python.investment" />
-      <item index="12" class="java.lang.String" itemvalue="Python.if_condition" />
-      <item index="13" class="java.lang.String" itemvalue="Python.factors" />
-      <item index="14" class="java.lang.String" itemvalue="Python.break" />
-      <item index="15" class="java.lang.String" itemvalue="Python.HelloWorld" />
-      <item index="16" class="java.lang.String" itemvalue="Python.debugger" />
-      <item index="17" class="java.lang.String" itemvalue="Python.if_condition_input" />
+      <item index="4" class="java.lang.String" itemvalue="Python.list_new" />
+      <item index="5" class="java.lang.String" itemvalue="Python.try_except" />
+      <item index="6" class="java.lang.String" itemvalue="Python.leetspeak" />
+      <item index="7" class="java.lang.String" itemvalue="Python.calc" />
+      <item index="8" class="java.lang.String" itemvalue="Python.square_number" />
+      <item index="9" class="java.lang.String" itemvalue="Python.temperature" />
+      <item index="10" class="java.lang.String" itemvalue="Python.loop" />
+      <item index="11" class="java.lang.String" itemvalue="Python.for_loop" />
+      <item index="12" class="java.lang.String" itemvalue="Python.investment" />
+      <item index="13" class="java.lang.String" itemvalue="Python.if_condition" />
+      <item index="14" class="java.lang.String" itemvalue="Python.factors" />
+      <item index="15" class="java.lang.String" itemvalue="Python.break" />
+      <item index="16" class="java.lang.String" itemvalue="Python.HelloWorld" />
+      <item index="17" class="java.lang.String" itemvalue="Python.debugger" />
+      <item index="18" class="java.lang.String" itemvalue="Python.if_condition_input" />
     </list>
     <recent_temporary>
       <list size="3">
@@ -708,6 +731,96 @@
           <line>13</line>
           <option name="timeStamp" value="23" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/list_new.py</url>
+          <line>92</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/list_new.py</url>
+          <line>79</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/list_new.py</url>
+          <line>80</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/list_new.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/list_new.py</url>
+          <line>81</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/list_new.py</url>
+          <line>89</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/list_new.py</url>
+          <line>82</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/list_new.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/list_new.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/list_new.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/list_new.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/list_new.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/list_new.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/list_new.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/list_new.py</url>
+          <line>51</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/list_new.py</url>
+          <line>53</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/list_new.py</url>
+          <line>55</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/list_new.py</url>
+          <line>56</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
@@ -724,7 +837,7 @@
           <properties />
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="29" />
+      <option name="time" value="85" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -909,14 +1022,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="416">
@@ -933,18 +1038,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/codecs.py">
+    <entry file="file://$PROJECT_DIR$/list.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-836">
-          <caret line="328" column="0" lean-forward="true" selection-start-line="328" selection-start-column="0" selection-end-line="328" selection-end-column="0" />
+        <state relative-caret-position="127">
+          <caret line="21" column="27" lean-forward="true" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/list.py">
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="21" column="27" lean-forward="true" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+        <state relative-caret-position="255">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="308" column="0" lean-forward="false" selection-start-line="308" selection-start-column="0" selection-end-line="308" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list_new.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1230">
+          <caret line="82" column="9" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="82" selection-end-column="9" />
           <folding />
         </state>
       </provider>
