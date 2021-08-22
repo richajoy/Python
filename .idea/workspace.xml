@@ -2,16 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aad338cf-26f0-4931-8e84-24a769996ba3" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/tools/logging-1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/logging-2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/logging-3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/logging-4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/logging.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wired-brain/product-service/src/db.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wired-brain/product-service/src/logging.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wired-brain/db_password.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wired-brain/target/file1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wired-brain/product-service/src/Product.py" beforeDir="false" afterPath="$PROJECT_DIR$/wired-brain/product-service/src/Product.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gsd/swarm-stack/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/gsd/swarm-stack/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wired-brain/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/wired-brain/docker-compose.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wired-brain/product-service/src/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/wired-brain/product-service/src/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wired-brain/product-service/src/db.ini" beforeDir="false" afterPath="$PROJECT_DIR$/wired-brain/config/db.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wired-brain/product-service/src/logging.ini" beforeDir="false" afterPath="$PROJECT_DIR$/wired-brain/config/logging.ini" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -86,6 +84,7 @@
       <recent name="$PROJECT_DIR$/wired-brain/product-service/src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/wired-brain/config" />
       <recent name="$PROJECT_DIR$/wired-brain/product-service/src" />
     </key>
   </component>
